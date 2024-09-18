@@ -10,5 +10,7 @@ public class JenkinsExceution2Test {
 
 	{
 		System.out.println("helloo world");
+		
+		System.out.println("poll scm1");
 	}
 }
